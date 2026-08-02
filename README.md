@@ -45,5 +45,4 @@ This project analyzes sales performance using the Superstore dataset. The dashbo
 - Expand sales in high-performing regions.
 - Improve profitability of low-margin categories.
 
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+
